@@ -8,4 +8,8 @@ The good thing about Github action it will automatically run every time when the
 
 2. No
 
+3. No, E2E testing is more suitable because it invloves user interactions
+
+4. Yes, because it's static features that doesn't affect other functionalities
+
 
